@@ -1,0 +1,1 @@
+json.array! @congrats, partial: 'congrats/congrat', as: :congrat

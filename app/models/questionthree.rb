@@ -1,0 +1,2 @@
+class Questionthree < ApplicationRecord
+end

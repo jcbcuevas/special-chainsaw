@@ -1,0 +1,2 @@
+class Questionsix < ApplicationRecord
+end

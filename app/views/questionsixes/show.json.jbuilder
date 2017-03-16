@@ -1,0 +1,1 @@
+json.partial! "questionsixes/questionsix", questionsix: @questionsix

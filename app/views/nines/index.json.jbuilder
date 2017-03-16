@@ -1,0 +1,1 @@
+json.array! @nines, partial: 'nines/nine', as: :nine

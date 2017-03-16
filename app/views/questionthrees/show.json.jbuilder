@@ -1,0 +1,1 @@
+json.partial! "questionthrees/questionthree", questionthree: @questionthree

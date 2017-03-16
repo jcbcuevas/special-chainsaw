@@ -1,0 +1,1 @@
+json.array! @nopes, partial: 'nopes/nope', as: :nope

@@ -1,0 +1,17 @@
+<%= form_for(nope) do |f| %>
+  <% if nope.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(nope.errors.count, "error") %> prohibited this nope from being saved:</h2>
+
+      <ul>
+      <% nope.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

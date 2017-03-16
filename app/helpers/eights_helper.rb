@@ -1,0 +1,2 @@
+module EightsHelper
+end

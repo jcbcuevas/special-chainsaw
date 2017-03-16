@@ -1,0 +1,2 @@
+class Ten < ApplicationRecord
+end

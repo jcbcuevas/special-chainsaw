@@ -1,0 +1,1 @@
+json.partial! "nopes/nope", nope: @nope

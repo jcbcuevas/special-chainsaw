@@ -1,0 +1,2 @@
+class Eight < ApplicationRecord
+end
